@@ -12,6 +12,8 @@ app.use(express.urlencoded({
     extended: true
 }));
 
+app.use(express.static("./public"));
+
 //调用路由文件，并设置好前缀
 app.use("/posts", postRouter)
 
