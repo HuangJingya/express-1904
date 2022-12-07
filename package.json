@@ -22,7 +22,7 @@
   "homepage": "https://github.com/HuangJingya/express-1904#readme",
   "dependencies": {
     "apidoc": "^0.20.1",
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "express-async-errors": "^3.1.1",
     "mongoose": "^5.9.7"
   }
